@@ -1,0 +1,11 @@
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName= +5V Pin=U1-4
+Added Pin To Net: NetName= +5V Pin=U1-18
+Added Pin To Net: NetName= +5V Pin=U2-5
+Added Net: Name= +5V
+Add Class Member: Failed to add class member : Component C1 Capacitor
+Add Class Member: Failed to add class member : Component C2 Capacitor
+Added Room: Name=1_Controller
+Added Room: Name=2_CurrentSense

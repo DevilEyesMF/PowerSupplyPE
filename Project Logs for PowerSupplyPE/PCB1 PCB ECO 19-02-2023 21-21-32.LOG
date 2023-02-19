@@ -1,0 +1,11 @@
+Added Component: Designator=U1(TQFP32-0.8)
+Added Pin To Net: NetName=+5 Pin=U1-4
+Added Pin To Net: NetName=+5 Pin=U1-18
+Added Net: Name=+5
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-21
+Added Net: Name=GND
+Add Class Member: Failed to add class member : Component C1 Capacitor
+Add Class Member: Failed to add class member : Component C2 Capacitor
+Added Member To Class: ClassName=1_Controller Member=Component U1 ATtiny828
+Added Room: Name=1_Controller
