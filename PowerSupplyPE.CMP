@@ -1,0 +1,14 @@
+Component   : TQFP32-0.8
+PCB Library : PowerSupplyPE.PcbLib
+Date        : 23/02/2023
+Time        : 10:24:28
+
+
+
+Dimension : 10.389 x 9.855 mm
+
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Top Overlay                 0          5        0       1        0
+--------------------------------------------------------------------
+ Total                       0          5        0       1        0
