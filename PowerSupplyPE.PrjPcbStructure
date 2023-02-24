@@ -1,2 +1,3 @@
 Record=TopLevelDocument|FileName=1_Controller.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=1_Controller.SchDoc|FileName=2_CurrentSense.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=1_Controller.SchDoc|FileName=2_DAC_ADC.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=1_Controller.SchDoc|FileName=3_PSU.SchDoc|SheetNumber=3

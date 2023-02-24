@@ -1,0 +1,111 @@
+Added Component: Designator=J1(61300621121)
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://katalog.we-online.de/em/datasheet/6130xx21121.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40to105degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "61300621121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bag"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "61300621121"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "WurthElektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Number"; Value = "Dual"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Withstanding Voltage"; Value = "500VAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "250VAC"; VariantName = "[No Variations]"
+Added Component: Designator=U1(QFP80P900X900X120-32N)
+Added Component: Designator=U2(SOT95P280X145-5N)
+Added Component: Designator=U3(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "MCP3202-BI/SN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mcp3202-bisn/microchip-technology?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-19/DSA-360813.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MCP3202-BI/SN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "579-MCP3202BISN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/MCP3202-BI-SN?qs=C%252BuF95oynlkGMhp5%2FSqbew%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=U4(SOT95P280X145-5N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "REF3440SQDBVRQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ref3440sqdbvrq1/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.ti.com/lit/gpn/REF34-Q1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "REF3440SQDBVRQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-REF3440SQDBVRQ1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/REF3440SQDBVRQ1?qs=bAKSY%2FctAC6om7nW8LpN%2Fg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=U5(SOIC127P600X175-14N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "MCP4922T-E/SL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mcp4922t-esl/microchip-technology?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://ww1.microchip.com/downloads/en/DeviceDoc/22250A.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MCP4922T-E/SL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "579-MCP4922T-E/SL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/MCP4922T-E-SL?qs=8U9qMIGhlkqc26Xt7UKk2w%3D%3D"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Added Pin To Net: NetName=+5V Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=+5V Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=+5V Pin=U1-18
+Added Pin To Net: NetName=GND Pin=U1-21
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=+5V Pin=U2-5
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=+5V Pin=U4-3
+Added Pin To Net: NetName=+5V Pin=U5-1
+Added Pin To Net: NetName=GND Pin=U5-12
+Added Pin To Net: NetName=+4.096V Pin=U3-8
+Added Pin To Net: NetName=+4.096V Pin=U4-4
+Added Pin To Net: NetName=+4.096V Pin=U5-11
+Added Pin To Net: NetName=+4.096V Pin=U5-13
+Added Net: Name=+4.096V
+Added Pin To Net: NetName=ADC_VOLTAGE Pin=U3-3
+Added Net: Name=ADC_VOLTAGE
+Added Pin To Net: NetName=CS_ADC Pin=U3-1
+Added Net: Name=CS_ADC
+Added Pin To Net: NetName=CS_DAC Pin=U5-3
+Added Net: Name=CS_DAC
+Added Pin To Net: NetName=DAC_CURRENT Pin=U5-14
+Added Net: Name=DAC_CURRENT
+Added Pin To Net: NetName=DAC_VOLTAGE Pin=U5-10
+Added Net: Name=DAC_VOLTAGE
+Added Pin To Net: NetName=MISO Pin=J1-1
+Added Pin To Net: NetName=MISO Pin=U1-28
+Added Pin To Net: NetName=MISO Pin=U3-6
+Added Net: Name=MISO
+Added Pin To Net: NetName=MOSI Pin=J1-4
+Added Pin To Net: NetName=MOSI Pin=U1-27
+Added Pin To Net: NetName=MOSI Pin=U3-5
+Added Pin To Net: NetName=MOSI Pin=U5-5
+Added Net: Name=MOSI
+Added Pin To Net: NetName=RESET Pin=J1-5
+Added Pin To Net: NetName=RESET Pin=U1-29
+Added Net: Name=RESET
+Added Pin To Net: NetName=SCK Pin=J1-3
+Added Pin To Net: NetName=SCK Pin=U1-30
+Added Pin To Net: NetName=SCK Pin=U3-7
+Added Pin To Net: NetName=SCK Pin=U5-4
+Added Net: Name=SCK
+Added Pin To Net: NetName=SHUNT_NEG Pin=U2-4
+Added Net: Name=SHUNT_NEG
+Added Pin To Net: NetName=SHUNT_OUT Pin=U2-1
+Added Pin To Net: NetName=SHUNT_OUT Pin=U3-2
+Added Net: Name=SHUNT_OUT
+Added Pin To Net: NetName=SHUNT_POS Pin=U2-3
+Added Net: Name=SHUNT_POS
+Added Class: Name=2_DAC_ADC
+Add Class Member: Failed to add class member : Component C1 Capacitor
+Add Class Member: Failed to add class member : Component C2 Capacitor
+Added Member To Class: ClassName=1_Controller Member=Component J1 61300621121
+Added Member To Class: ClassName=1_Controller Member=Component U1 ATtiny828
+Added Room: Name=1_Controller
+Added Room: Name=2_DAC_ADC
