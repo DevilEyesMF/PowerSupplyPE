@@ -1,0 +1,4 @@
+Replace Part C1 Capacitor in D:\remko\Documents\Altium\PowerSupplyPE\1_Controller.SchDoc with Capacitor from Simulation Generic Components.IntLib
+Replace Part C2 Capacitor in D:\remko\Documents\Altium\PowerSupplyPE\1_Controller.SchDoc with Capacitor from Simulation Generic Components.IntLib
+Update Managed Component J1 From CMP-1502-01072-1[61300621121] To CMP-1502-01072-1[61300621121] in 1_Controller.SchDoc
+Replace Part U1 ATtiny828 in D:\remko\Documents\Altium\PowerSupplyPE\1_Controller.SchDoc with ATtiny828 from PowerSupplyPE.SCHLIB

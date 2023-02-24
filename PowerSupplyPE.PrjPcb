@@ -66,24 +66,7 @@ GenerateClassCluster=0
 DocumentUniqueId=BHKLFWXI
 
 [Document2]
-DocumentPath=2_CurrentSense.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=LGSRRMPK
-
-[Document3]
-DocumentPath=3_DAC_ADC.SchDoc
+DocumentPath=2_DAC_ADC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -99,7 +82,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KIIJWOJC
 
-[Document4]
+[Document3]
 DocumentPath=PCB1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -116,7 +99,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OARLFBUD
 
-[Document5]
+[Document4]
 DocumentPath=PowerSupplyPE.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -133,7 +116,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document5]
 DocumentPath=PowerSupplyPE.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -150,7 +133,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VXTWIIWK
 
-[Document7]
+[Document6]
 DocumentPath=PowerSupplyPE.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
