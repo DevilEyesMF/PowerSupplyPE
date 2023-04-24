@@ -1,0 +1,60 @@
+Change Value of Parameter Value in Part C3 Old=470n New=1p
+Change Value of Parameter Value in Part C4 Old=20000u New=100pF
+Change Value of Parameter Value in Part C5 Old=68u New=100pF
+Change Value of Parameter Value in Part C6 Old=10u New=100pF
+Change Value of Parameter Value in Part C7 Old=100n New=1p
+Change Value of Parameter Value in Part C8 Old=100n New=1p
+Change Value of Parameter Value in Part C9 Old=680p New=1p
+Change Value of Parameter Value in Part C10 Old=100n New=1p
+Change Value of Parameter Value in Part C11 Old=10u New=100pF
+Change Component Parameter Comment in J7 Old= New=61300211121
+Change Component Parameter Comment in L1 Old= New=VLS5045EX-4R7M-H
+Change Component Parameter Description in L1 Old=VLS5045EX-4R7M-H New=Inductor
+Change Component Parameter Description in R3 Old=Shunt New=Resistor
+Change Value of Parameter Value in Part R3 Old=1R New=1K
+Change Component Parameter Description in R4 Old=Shunt New=Resistor
+Change Value of Parameter Value in Part R4 Old=1R New=1K
+Change Component Parameter Description in R5 Old=Shunt New=Resistor
+Change Value of Parameter Value in Part R5 Old=1R New=1K
+Change Component Parameter Description in R6 Old=Shunt New=Resistor
+Change Value of Parameter Value in Part R6 Old=1R New=1K
+Change Component Parameter Description in R7 Old=Shunt New=Resistor
+Change Value of Parameter Value in Part R7 Old=1R New=1K
+Change Component Parameter Description in R8 Old=Shunt New=Resistor
+Change Value of Parameter Value in Part R8 Old=1R New=1K
+Change Component Parameter Description in R9 Old=Shunt New=Resistor
+Change Value of Parameter Value in Part R9 Old=1R New=1K
+Change Component Parameter Description in R10 Old=Shunt New=Resistor
+Change Value of Parameter Value in Part R10 Old=1R New=1K
+Change Component Parameter Description in R11 Old=Shunt New=Resistor
+Change Value of Parameter Value in Part R11 Old=1R New=1K
+Change Component Parameter Description in R12 Old=Shunt New=Resistor
+Change Value of Parameter Value in Part R12 Old=1R New=1K
+Change Component Parameter Description in R13 Old=Shunt New=Resistor
+Change Value of Parameter Value in Part R13 Old=1R New=1K
+Change Component Parameter Description in R14 Old=Shunt New=Resistor
+Change Value of Parameter Value in Part R14 Old=80K New=1K
+Change Component Parameter Description in R15 Old=Shunt New=Resistor
+Change Value of Parameter Value in Part R15 Old=15.4k New=1K
+Change Component Parameter Description in R16 Old=Shunt New=Resistor
+Change Value of Parameter Value in Part R16 Old=63.4k New=1K
+Change Component Parameter Description in R17 Old=Shunt New=Resistor
+Change Value of Parameter Value in Part R17 Old=63.4k New=1K
+Change Component Parameter Description in R18 Old=Shunt New=Resistor
+Change Value of Parameter Value in Part R18 Old=20K New=1K
+Change Component Parameter Description in R19 Old=Shunt New=Resistor
+Change Value of Parameter Value in Part R19 Old=68R New=1K
+Change Component Parameter Description in R20 Old= New=Resistor
+Change Component Parameter Description in R21 Old=Shunt New=Resistor
+Change Value of Parameter Value in Part R21 Old=value New=1K
+Change Component Parameter Description in R22 Old=Shunt New=Resistor
+Change Value of Parameter Value in Part R22 Old=value New=1K
+Change Component Parameter Description in R23 Old=Shunt New=Resistor
+Change Component Parameter Description in R24 Old=Shunt New=Resistor
+Change Value of Parameter Value in Part R24 Old=80K New=1K
+Change Component Parameter Description in R25 Old=Shunt New=Resistor
+Change Value of Parameter Value in Part R25 Old=20K New=1K
+Change Component Parameter Description in R26 Old=Shunt New=Resistor
+Change Value of Parameter Value in Part R26 Old=330k New=1K
+Change Component Parameter Description in R27 Old=Shunt New=Resistor
+Change Value of Parameter Value in Part R27 Old=10k New=1K

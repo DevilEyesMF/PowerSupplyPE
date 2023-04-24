@@ -1,0 +1,39 @@
+Add Component: Footprint Not Found DIOM5127X229N
+Add Component: Footprint Not Found VLS5045EX330M
+Add Component: Footprint Not Found SOT96P240X110-3N
+Add Component: Footprint Not Found SOT230P700X180-4N
+Add Component: Footprint Not Found TO170P457X1022X2306-5P
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C11-2
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Pin To Net: Unknown Pin: Pin Q1-1
+Add Pin To Net: Unknown Pin: Pin Q1-2
+Add Pin To Net: Unknown Pin: Pin Q1-3
+Add Pin To Net: Unknown Pin: Pin Q2-1
+Add Pin To Net: Unknown Pin: Pin Q2-2
+Add Pin To Net: Unknown Pin: Pin Q2-3
+Add Pin To Net: Unknown Pin: Pin Q2-4
+Add Pin To Net: Unknown Pin: Pin U12-2
+Add Pin To Net: Unknown Pin: Pin U12-3
+Add Pin To Net: Unknown Pin: Pin U12-4
+Add Pin To Net: Unknown Pin: Pin U12-5
+Add Class Member: Failed to add class member : Component C4 Cap Pol1
+Add Class Member: Failed to add class member : Component C5 Cap Pol1
+Add Class Member: Failed to add class member : Component C6 Cap Pol1
+Add Class Member: Failed to add class member : Component C11 Cap Pol1
+Add Class Member: Failed to add class member : Component D1 B340A
+Add Class Member: Failed to add class member : Component L1 4.7u
+Add Class Member: Failed to add class member : Component Q1 MMBT3904-7-F
+Add Class Member: Failed to add class member : Component Q2 ZVP4525GTA
+Add Class Member: Failed to add class member : Component U12 LT3083ET#PBF
+Added Member To Class: ClassName=1_Controller Member=Component U? MCP4922T-E_SL
+Added Member To Class: ClassName=1_Controller Member=Component U? MCP3202-BI_SN

@@ -1,0 +1,5 @@
+Change Value of Parameter Value in Part C1 Old=100n New=1p
+Change Value of Parameter Value in Part C2 Old=100n New=1p
+Change Component Parameter Description in R1 Old=Shunt New=Resistor
+Change Value of Parameter Value in Part R1 Old=27k New=1K
+Change Value of Parameter Value in Part R2 Old=10k New=1K
