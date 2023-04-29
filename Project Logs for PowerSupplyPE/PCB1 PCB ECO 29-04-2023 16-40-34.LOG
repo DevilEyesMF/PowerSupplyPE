@@ -1,0 +1,6 @@
+Change Net Name : Old Net Name=NetC15_1 New Net Name=OUTPUT
+Added Member To Class: ClassName=2_PSU Member=Component R13 Resistor
+Added Member To Class: ClassName=2_PSU Member=Component R15 Resistor
+Added Member To Class: ClassName=2_PSU Member=Component R18 Resistor
+Added Room: Name=1_Controller
+Added Room: Name=2_PSU
