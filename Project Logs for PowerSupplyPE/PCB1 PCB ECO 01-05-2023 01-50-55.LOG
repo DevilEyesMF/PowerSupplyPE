@@ -1,0 +1,77 @@
+Removed Pin From Net: NetName=MISO Pin=J1-1
+Removed Pin From Net: NetName=CS_ADC Pin=R2-1
+Removed Pin From Net: NetName=+5V Pin=R2-2
+Change component parameters: Designator = "R2" ("R2"); Footprint = "6-0805_N"; UniqueID = "\FBAZXGUL" ("\FBAZXGUL")
+Change component parameters (AddParameter): Name = "DTEMP"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SimulationGenericComponent"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "T_REL_LOCAL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TC1"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TC2"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TEMP"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "15.4k"; VariantName = "[No Variations]"
+Added Component: Designator=R35(6-0805_N)
+Add component (AddParameter): Name = "DTEMP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationGenericComponent"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "T_REL_LOCAL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC1"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC2"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TEMP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "63.4k"; VariantName = "[No Variations]"
+Added Component: Designator=R36(6-0805_N)
+Add component (AddParameter): Name = "DTEMP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationGenericComponent"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "T_REL_LOCAL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC1"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC2"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TEMP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15.4k"; VariantName = "[No Variations]"
+Added Component: Designator=R37(6-0805_N)
+Add component (AddParameter): Name = "DTEMP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationGenericComponent"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "T_REL_LOCAL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC1"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC2"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TEMP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15.4k"; VariantName = "[No Variations]"
+Added Component: Designator=R38(6-0805_N)
+Add component (AddParameter): Name = "DTEMP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationGenericComponent"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "T_REL_LOCAL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC1"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC2"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TEMP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "63.4k"; VariantName = "[No Variations]"
+Added Component: Designator=R39(6-0805_N)
+Add component (AddParameter): Name = "DTEMP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationGenericComponent"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "T_REL_LOCAL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC1"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC2"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TEMP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "63.4k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MISO Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R35-1
+Added Pin To Net: NetName=MISO Pin=R35-2
+Added Pin To Net: NetName=MOSI Pin=R36-1
+Added Pin To Net: NetName=+5V Pin=R37-1
+Added Pin To Net: NetName=CS_ADC Pin=R37-2
+Added Pin To Net: NetName=GND Pin=R38-1
+Added Pin To Net: NetName=MOSI Pin=R38-2
+Added Pin To Net: NetName=GND Pin=R39-1
+Added Pin To Net: NetName=CS_ADC Pin=R39-2
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=R2-1
+Added Net: Name=NetJ1_1
+Added Member To Class: ClassName=1_Controller Member=Component R35 Resistor
+Added Member To Class: ClassName=1_Controller Member=Component R36 Resistor
+Added Member To Class: ClassName=1_Controller Member=Component R37 Resistor
+Added Member To Class: ClassName=1_Controller Member=Component R38 Resistor
+Added Member To Class: ClassName=1_Controller Member=Component R39 Resistor
+Added Room: Name=1_Controller
+Added Room: Name=2_PSU

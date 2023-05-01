@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=MOSI Pin=J1-4
+Removed Pin From Net: NetName=MOSI Pin=U2-27
+Removed Pin From Net: NetName=MOSI Pin=U3-5
+Change Net Name : Old Net Name=MOSI New Net Name=NetR36_1
+Added Pin To Net: NetName=MOSI Pin=J1-4
+Added Pin To Net: NetName=MOSI Pin=R36-2
+Added Pin To Net: NetName=MOSI Pin=U2-27
+Added Pin To Net: NetName=MOSI Pin=U3-5
+Added Net: Name=MOSI
+Added Room: Name=1_Controller
+Added Room: Name=2_PSU
